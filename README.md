@@ -1,4 +1,4 @@
-# hamada1m
+# Derga-Hamada
 ### Hi there, I'm Hamada! 👋
 
 I am a **Master's Student in ISIDS** (Information Systems and Decision Support) at the University of Batna 2.
@@ -25,5 +25,4 @@ I balance my time between academic research, distributed systems, and exploring 
 ---
 
 ### 📊 GitHub Stats
-![Hamada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derga-Hamada
-&show_icons=true&theme=radical)
+![Hamada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derga-Hamada&show_icons=true&theme=radical)
