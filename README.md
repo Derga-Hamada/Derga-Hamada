@@ -34,8 +34,4 @@ I balance my time between academic research, distributed systems, and exploring 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Derga-Hamada&theme=radical&mode=weekly" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derga-Hamada&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Hamada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derga-Hamada&show_icons=true&theme=radical&random=1)
