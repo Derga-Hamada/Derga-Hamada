@@ -5,7 +5,6 @@ I am a **Master's Student in ISIDS** (Information Systems and Decision Support) 
 I balance my time between academic research, distributed systems, and exploring the frontiers of **AI Security**.
 
 - 🔭 **I studied:** Distributed Information Systems & Cryptography algorithms.
-- 💻 **Web Development:** Experienced in building websites using WordPress & Code.
 - 🛡️ **Focus Area:** AI & AI Security.
 - 🎓 **Next Goal:** Pursuing an MSc in AI & Data Science.
 
@@ -23,7 +22,6 @@ I balance my time between academic research, distributed systems, and exploring 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=WordPress&logoColor=white)
 
 **Interests:**
 ![AI Security](https://img.shields.io/badge/Focus-AI%20Security-red)
